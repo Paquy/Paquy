@@ -4,11 +4,6 @@
 - 💙 Mobile!
 - 📚 Ciência da Computação 6/8
 
-<div align="center">
-  <a href="https://github.com/Paquy">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Paquy&show_icons=true&theme=cobalt&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Paquy&layout=compact&langs_count=7&theme=cobalt"/>
-</div>
  
 <div style="display: inline_block"><br>
   <img align="center" alt="Paquy-Kotlin" height="30" width="80"
